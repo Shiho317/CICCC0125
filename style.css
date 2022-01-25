@@ -132,3 +132,7 @@ form#add input[type="submit"]:hover {
   font-style: italic;
   font-size: 40px;
 }
+
+.hidden{
+  visibility: hidden;
+}
